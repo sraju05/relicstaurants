@@ -70,5 +70,5 @@ If you believe you have found a security vulnerability in this project or any of
 
  - Upgraded the nodejs agent to the latest version in each service
  - To the menuservice
-  - Installed the winston package
-  - Updated the index.js file to add the winston package, logging and a dummy error
+   - Installed the winston package
+   - Updated the index.js file to add the winston package, logging and a dummy error
